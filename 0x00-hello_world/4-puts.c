@@ -1,11 +1,14 @@
 #include <stdio.h>
+
 /**
 * main
 *
-* Description:
-*
+* Description: using the main function
+* this program
 * Return: 0
 */
+int main(void)
 {
-puts("\"programming");
+	puts("\"programming is like building multilingual puzzle");
+	return (0);
 }
