@@ -19,7 +19,6 @@ i = 0;
 *}
 */
 printf("infinite loop avoided! \\o/\n");
-[C[C[C[C[C[C[C[C[C[C[C
-printf("infinite loop avoided! \\o/\n");
 
 return (0);
+}
